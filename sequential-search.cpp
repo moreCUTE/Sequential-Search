@@ -5,7 +5,7 @@ int main() {
     int location;
     bool found = false;
     location = 0;
-    int IDs[] = { 234, 567, 321, 567, 234, 789 };
+    int IDs[] = { 234, 567, 321, 677, 789 };
 
     int searchItem;
     cout << "enter ID you are searching force:" << endl;
